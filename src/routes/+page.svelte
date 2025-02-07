@@ -72,7 +72,7 @@
     <div class="hero-content text-center text-neutral-content">
       <div class="max-w-md">
         <h1 class="text-5xl font-bold text-white mb-8">Find Your Dream Property</h1>
-        <p class="py-6 text-white text-lg">Discover premium properties in Guwahati. Buy or sell with confidence.</p>
+        <p class="py-6 text-white text-lg">Discover premium properties in Aruncahal. Buy or sell with confidence.</p>
         <div class="flex gap-4 justify-center">
           <a href="#properties" class="btn btn-primary btn-lg">View Properties</a>
           <a href="YOUR_GOOGLE_FORM_LINK_FOR_SELLING" class="btn btn-secondary btn-lg">List Property</a>
@@ -130,7 +130,7 @@
           <div class="card-body">
             <div class="text-4xl mb-4">🏠</div>
             <h3 class="text-xl font-bold mb-4">1. Choose Property</h3>
-            <p>Browse our curated collection of premium properties in Guwahati.</p>
+            <p>Browse our curated collection of premium properties in Arunachal.</p>
           </div>
         </div>
         <div class="card bg-base-100 shadow-xl">
